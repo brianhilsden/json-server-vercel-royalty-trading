@@ -1,9 +1,162 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "items": [
+    {
+      "id": "1",
+      "name": "Samsung Galaxy A15",
+      "details": "6.5, 128GB + 6GB RAM (Dual SIM), 5000mAh, Blue Black",
+      "price": "KSh 28,749",
+      "owner_id": "",
+      "owner_email": "otis@moringaschool.com",
+      "previous_owner_email":"",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/41/3235581/1.jpg?9254"
+    },
+    {
+      "id": "2",
+      "name": "Makeup Brushes",
+      "details": "Fashion 10pcs Makeup Brushes Set For Foundation -Black",
+      "price": "KSh 445",
+      "owner_id": "",
+      "owner_email": "taylorkarimi@moringaschool.com",
+      "previous_owner_email":"",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/43/332585/1.jpg?1466"
+    },
+    {
+      "id": "3",
+      "name": "Wlisth Men's Watches ",
+      "details": "Feature stainless steel band, and flexible screw button.",
+      "price": "KSh 1430",
+      "owner_id": "",
+      "owner_email": "brianhilsden@moringaschool.com",
+      "previous_owner_email":"",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/44/407783/1.jpg?3366"
+    },
+    {
+      "id": "4",
+      "name": "Running Sneakers ",
+      "details": "Fashionable and versatile at the same time.",
+      "price": "KSh 1580",
+      "owner_id": "",
+      "owner_email": "simon@moringaschool.com",
+      "previous_owner_email":"",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/26/941956/1.jpg?5675"
+    },
+    {
+      "id": "5",
+      "name": "Ladies Handbags ",
+      "details": "Fashion 4pcs Ladies Handbags Women Shoulder Tote Bags",
+      "price": "KSh 759",
+      "owner_id": "",
+      "owner_email": "kevin20@moringaschool.com",
+      "previous_owner_email":"",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/41/159292/1.jpg?8074"
+    },{
+      "id": "6",
+      "name": "Ramtons cooker ",
+      "details": "Ramtons EB/303 4 Gas 55x55 Dark Red Cooker",
+      "price": "KSh 27172",
+      "owner_id": "",
+      "owner_email": "lucy2012@moringaschool.com",
+      "previous_owner_email":"",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/53/7178771/1.jpg?0293"
+    },{
+      "id": "7",
+      "name": "Hotpoint tv",
+      "details": "Von Hotpoint 55 VEL55USVW Smart LED TV - UHD, WebOS",
+      "price": "KSh 57899",
+      "owner_id": "",
+      "owner_email": "tabitha@moringaschool.com",
+      "previous_owner_email":"",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/75/9878581/1.jpg?2977"
+    },{
+      "id": "8",
+      "name": "Door Mat",
+      "details": "Shaggy Absorbent AntiSlip Door Mat,Bathroom Mat, Bedroom Mat",
+      "price": "KSh 885",
+      "owner_id": "",
+      "owner_email": "tracykelcie@moringaschool.com",
+      "previous_owner_email":"",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/98/526776/1.jpg?4798"
+    },{
+      "id": "9",
+      "name": "Cactus Doll",
+      "details": "Cowboy Cute Learn To Speak Singing And Dancing Plush Cactus Doll PC",
+      "price": "KSh 1249",
+      "owner_id": "",
+      "owner_email": "simonofcyrene@moringaschool.com",
+      "previous_owner_email":"",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/48/4681981/1.jpg?8248"
+    },
+    {
+      "id": "10",
+      "name": "Rubik's cube",
+      "details": "3 By 3 Rubik'sRubic Magic Speed Cube Game",
+      "price": "KSh 450",
+      "owner_id": "",
+      "owner_email": "mohammed1981@moringaschool.com",
+      "previous_owner_email":"",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/68/9432201/1.jpg?2788"
+    },
+    {
+      "id": "11",
+      "name": "Slice Toaster",
+      "details": "Mika MTS2204 2 Slice Toaster, 720-850W - Black",
+      "price": "Ksh3995",
+      "owner_id": "",
+      "owner_email": "harrypotter@moringaschool.com",
+      "previous_owner_email":"",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/28/765803/1.jpg?0367"
+
+    },
+    {
+      "name": "Artificial Lotus Flower",
+      "details": "Potted Plant Bonsai Wedding Party Garden Home Decor-Purple",
+      "price": "KSh218",
+      "owner_id": "uMe6idDmYecZIgyO5zlYMN8aXnz1",
+      "owner_email": "brianhilsden@moringaschool.com",
+      "previous_owner_email": "brianhilsden@moringaschool.com",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/17/062293/1.jpg?4420",
+      "id": "12"
+    },
+    {
+      "name": "Lenovo IdeaPad",
+      "details": "Touch-12th Gen Intel Core i5-512GB SSD+8GB RAM-14",
+      "price": "Ksh112000",
+      "owner_id": "uMe6idDmYecZIgyO5zlYMN8aXnz1",
+      "owner_email": "brianhilsden@moringaschool.com",
+      "previous_owner_email": "brianhilsden@moringaschool.com",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/42/2085391/1.jpg?2948",
+      "id": "13"
+    },
+    {
+      "name": "XBOX Series S",
+      "details": "512GB All-Digital Console",
+      "price": "Ksh49500",
+      "owner_id": "uMe6idDmYecZIgyO5zlYMN8aXnz1",
+      "owner_email": "brianhilsden@moringaschool.com",
+      "previous_owner_email": "brianhilsden@moringaschool.com",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/85/331235/1.jpg?6775",
+      "id": "14"
+    },
+    {
+      "name": "Duvet Blanket",
+      "details": "Multicolor Duvet Blanket, Sheet, 2 Pillow Cases",
+      "price": "Ksh2999",
+      "owner_id": "uMe6idDmYecZIgyO5zlYMN8aXnz1",
+      "owner_email": "brianhilsden@moringaschool.com",
+      "previous_owner_email": "brianhilsden@moringaschool.com",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/54/434843/1.jpg?6707",
+      "id": "15"
+    },
+    {
+      "name": "Wireless Speaker",
+      "details": "T&G TG117 Portable Bluetooth Wireless Speaker",
+      "price": "Ksh990",
+      "owner_id": "uMe6idDmYecZIgyO5zlYMN8aXnz1",
+      "owner_email": "brianhilsden@moringaschool.com",
+      "previous_owner_email": "brianhilsden@moringaschool.com",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/96/442353/1.jpg?2647",
+      "id": "16"
+    }
+
+  ]
 }
